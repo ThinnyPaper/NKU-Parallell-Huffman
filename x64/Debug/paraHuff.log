@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\vs project\paraHuff\huff.h(181,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  paraHuff.vcxproj -> D:\vs project\paraHuff\x64\Debug\paraHuff.exe
